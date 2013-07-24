@@ -1,9 +1,5 @@
 package Utilities;
 
-import java.awt.Color;
-import java.awt.Font;
-import java.io.File;
-
 /**
  * @author Vilmos Ioo 
  * Static class to store various strings used in the application
