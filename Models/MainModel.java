@@ -1,9 +1,5 @@
 package Models;
 
-import java.util.LinkedList;
-
-import Controllers.MainController;
-
 /**
  * @author Vilmos Ioo
  */
