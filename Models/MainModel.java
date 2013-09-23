@@ -8,7 +8,7 @@ public class MainModel extends AbstractModel {
 	private String Demo;
 
 	public void setDemo(String value) {
-		if (!RecentCases.equals(value)) {
+		if (!Demo.equals(value)) {
 			firePropertyChange(MainController.ELEMENT_DEMO_PROPERTY,
 					Demo, value);
 			Demo = value;
